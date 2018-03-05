@@ -1,0 +1,7 @@
+{
+    "watchFolder": "./less",   
+    "outputFolder": "./css",
+    "mainFile": "example.less",   
+    "plugins": "",
+    "runOnce": false
+}
